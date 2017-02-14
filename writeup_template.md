@@ -19,13 +19,13 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./output/hist.jpg "Visualization"
+[image1]: ./output/hist.png "Visualization"
 [image2]: ./output/1.jpg "Traffic Sign 1 - Processed"
 [image4]: ./internet/1.jpg "Traffic Sign 1"
 [image5]: ./internet/9.png "Traffic Sign 2"
 [image6]: ./internet/20.png "Traffic Sign 3"
 [image7]: ./internet/30.jpg "Traffic Sign 4"
-[image8]: ./internet/30.jpg "Traffic Sign 5"
+[image8]: ./internet/40.jpg "Traffic Sign 5"
 [image9]: ./output/conf.png "Confidence"
 
 ## Rubric Points
@@ -78,7 +78,7 @@ Here is an image before processing:
 
 Here is an image after processing:
 
-![alt text][image3]
+![alt text][image2]
 
 ####2. Describe how, and identify where in your code, you set up training, validation and testing data. How much data was in each set? Explain what techniques were used to split the data into these sets. (OPTIONAL: As described in the "Stand Out Suggestions" part of the rubric, if you generated additional data for training, describe why you decided to generate additional data, how you generated the data, identify where in your code, and provide example images of the additional data)
 
